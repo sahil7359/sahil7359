@@ -1,3 +1,5 @@
+![logo](https://cdn.dribbble.com/users/117876/screenshots/531193/server-maintenance.gif)
+
 <h1 align="center">Hi 👋, I'm Sahil Chakraborty</h1>
 <h3 align="center">A passionate Software Development Engineer cum interest in Data science from India</h3>
 
